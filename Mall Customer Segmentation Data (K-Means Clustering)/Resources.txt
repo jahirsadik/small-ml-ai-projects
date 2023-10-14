@@ -1,0 +1,12 @@
+Main Link of Problem:
+	https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+Notebooks I Followed: 
+	https://www.kaggle.com/code/tanmay111999/unsupervised-learning-3-6-clusters-k-means-eda
+	https://www.kaggle.com/code/kushal1996/customer-segmentation-k-means-analysis
+	https://www.kaggle.com/code/vjchoudhary7/kmeans-clustering-in-customer-segmentation/notebook
+Good Medium Article:
+	https://medium.com/analytics-vidhya/mall-customers-cluster-analysis-b2ece6effdaa
+Video for fast Theory:
+	https://www.youtube.com/watch?v=4b5d3muPQmA
+Video for Theory, Code example & exercise:
+	https://www.youtube.com/watch?v=EItlUEPCIzM
